@@ -1,1 +1,4 @@
+
+Cricket Field/Ground
+
 A cricket field is a large grass field on which the game of cricket is played. Although generally oval in shape, there is a wide variety within this: some are almost perfect circles, some elongated ovals and some entirely irregular shapes with little or no symmetry – but they will have entirely curved boundaries, almost without exception. There are no fixed dimensions for the field but its diameter usually varies between 450 feet (137 m) and 500 feet (150 m) for men's cricket, and between 360 feet (110 m) and 420 feet (130 m) for women's cricket. Cricket is unusual among major sports (along with golf, Australian rules football and baseball) in that there is no official rule for a fixed-shape ground for professional games. On most grounds, a rope demarcates the perimeter of the field and is known as the boundary.
